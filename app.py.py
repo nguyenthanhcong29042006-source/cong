@@ -1,11 +1,8 @@
 # -*- coding: utf-8 -*-
 """LUẬT GẦN BẢN — điểm vào duy nhất của ứng dụng.
-"Không để khoảng cách số trở thành khoảng cách công lý"
 
 File này chỉ làm 3 việc: dựng header, xử lý đăng nhập, và quyết định
 người đang dùng được vào những trang nào (st.navigation).
-
-Chạy:  python -m streamlit run app.py
 """
 from __future__ import annotations
 
@@ -31,26 +28,35 @@ st.markdown("""
       { font-family: 'Material Symbols Rounded','Material Icons',sans-serif !important; }
   .the-tra-loi { font-size: 20px; line-height: 1.6; }
   .the-tra-loi b { color: #003366; }
-  div[data-testid="stVerticalBlockBorderWrapper"] { border-radius: 10px; }
-  /* nút micro to, dễ bấm cho người lớn tuổi */
-  [data-testid="stAudioInput"] { transform: scale(1.15); transform-origin: left center; }
+  div[data-testid="stVerticalBlockBorderWrapper"] { border-radius: 12px; }
+  
+  /* Tối ưu nút micro nổi bật, to tròn ở giữa */
+  [data-testid="stAudioInput"] { 
+      display: flex;
+      justify-content: center;
+      margin: 15px auto;
+  }
+  [data-testid="stAudioInput"] > div {
+      background: #f0f7ff;
+      border: 2px dashed #003366;
+      border-radius: 20px;
+      padding: 10px;
+  }
 
-  /* Ẩn thanh công cụ mặc định để người dùng tập trung vào phần hỏi đáp. */
+  /* Ẩn thanh công cụ Streamlit */
   [data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stDecoration"]
       { display: none !important; }
   [data-testid="stMainBlockContainer"], .block-container
-      { padding-top: 0.6rem !important; }
+      { padding-top: 0.4rem !important; max-width: 700px; }
 
-  /* Giữ nhận diện dự án ở một hàng nhỏ gọn, không chiếm vùng tương tác. */
+  /* Header siêu gọn */
   .compact-project-header
-      { display: flex; align-items: center; gap: 10px; min-height: 40px;
-        margin: 0 0 10px; padding: 0 0 8px; border-bottom: 0.5px solid #ddd;
-        white-space: nowrap; overflow: hidden; }
+      { display: flex; align-items: center; justify-content: space-between; min-height: 45px;
+        margin: 0 0 8px; padding: 0 0 6px; border-bottom: 1px solid #e0e0e0; }
   .compact-project-name
-      { color: #003366; font-size: 16px; font-weight: bold; flex-shrink: 0; }
+      { color: #003366; font-size: 17px; font-weight: bold; }
   .compact-project-slogan
-      { color: #444; font-size: 12px; font-style: italic; overflow: hidden;
-        text-overflow: ellipsis; }
+      { color: #d97706; font-size: 13px; font-weight: 600; font-style: italic; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -63,19 +69,18 @@ def _logo_b64() -> str:
 
 def header() -> None:
     b64 = _logo_b64()
-    # Ảnh logo có nhiều khoảng trắng quanh biểu tượng. Khung nhỏ này chỉ hiển thị
-    # phần logo APAG, để header không còn chiếm nhiều chiều cao.
     img = (f'<img src="data:image/png;base64,{b64}" '
-           'style="width:120px;height:34px;object-fit:cover;object-position:center;" '
+           'style="width:110px;height:32px;object-fit:cover;object-position:center;" '
            'alt="APAG">' if b64 else
-           '<div style="width:120px;text-align:center;color:gray;">[APAG]</div>')
+           '<div style="width:100px;text-align:center;color:gray;">[APAG]</div>')
     st.markdown(f"""
     <div class="compact-project-header">
-      <div style="flex:0 0 120px;">{img}</div>
-      <div class="compact-project-name">DỰ ÁN LUẬT GẦN BẢN</div>
-      <div style="color:#bbb;flex-shrink:0;">|</div>
+      <div style="display:flex; align-items:center; gap:10px;">
+        {img}
+        <div class="compact-project-name">LUẬT GẦN BẢN</div>
+      </div>
       <div class="compact-project-slogan">
-        "Không để khoảng cách số trở thành khoảng cách công lý"
+        "Đưa chính sách đến gần đồng bào"
       </div>
     </div>
     """, unsafe_allow_html=True)
@@ -83,8 +88,7 @@ def header() -> None:
 
 header()
 
-# ======================================================= ĐĂNG NHẬP (thanh bên)
-auth.khoi_tao_mac_dinh()          # lần chạy đầu tiên: tạo 4 tài khoản mặc định
+auth.khoi_tao_mac_dinh()
 
 with st.sidebar:
     u = auth.nguoi_dang_nhap()
@@ -112,13 +116,8 @@ with st.sidebar:
                 else:
                     st.error("Sai tên đăng nhập hoặc mật khẩu.")
 
-# ============================================================ ĐIỀU HƯỚNG
 if not hasattr(st, "navigation") or not hasattr(st, "Page"):
-    st.error(
-        "Phiên bản Streamlit đang cài quá cũ (cần từ **1.36** trở lên).\n\n"
-        "Mở terminal ở thư mục dự án và chạy:\n\n"
-        "```\npip install -U streamlit\n```"
-    )
+    st.error("Phiên bản Streamlit quá cũ, cần từ 1.36 trở lên.")
     st.stop()
 
 trang = [st.Page("giao_dien/cong_dan.py", title="Hỏi đáp thủ tục",

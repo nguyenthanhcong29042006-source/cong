@@ -1,0 +1,74 @@
+{
+  "admin_Minh": {
+    "ten_dang_nhap": "admin_Minh",
+    "mo_ta": "Minh — quản trị hệ thống",
+    "vai_tro": "admin",
+    "quyen": [
+      "kho_thu_tuc",
+      "cap_nhat_du_lieu",
+      "cau_tra_loi",
+      "tu_vung_giong",
+      "bo_nho_tam"
+    ],
+    "muoi": "f8b68886bfd66200b9e3b46642e63afe",
+    "bam": "3d9fb4f57df20bf5ff4fbd1e06192fdba64cc87eda12fdb90c24ff14b411e0b1",
+    "kich_hoat": true,
+    "tao_luc": "2026-09-11T13:06:13",
+    "dang_nhap_cuoi": "2026-09-11T13:06:13",
+    "phai_doi_mk": false
+  },
+  "APAG_han": {
+    "ten_dang_nhap": "APAG_han",
+    "mo_ta": "Cán bộ Hân",
+    "vai_tro": "can_bo",
+    "quyen": [
+      "kho_thu_tuc",
+      "cap_nhat_du_lieu",
+      "cau_tra_loi",
+      "tu_vung_giong",
+      "bo_nho_tam"
+    ],
+    "muoi": "499d06685cebf94fc1189da6053ab4af",
+    "bam": "5d2545985a598a9aae9261d78411423c4792ddd1de454db9e42b1804ee26d7a5",
+    "kich_hoat": true,
+    "tao_luc": "2026-09-11T13:06:13",
+    "dang_nhap_cuoi": "",
+    "phai_doi_mk": false
+  },
+  "APAG_thai": {
+    "ten_dang_nhap": "APAG_thai",
+    "mo_ta": "Cán bộ Thái",
+    "vai_tro": "can_bo",
+    "quyen": [
+      "kho_thu_tuc",
+      "cap_nhat_du_lieu",
+      "cau_tra_loi",
+      "tu_vung_giong",
+      "bo_nho_tam"
+    ],
+    "muoi": "99e21de86140e0f5c74693fffbfbf68a",
+    "bam": "341d8e9c7df57b32d1c4852dec6de555f8dd8afaa4701023587049a1f25047b3",
+    "kich_hoat": true,
+    "tao_luc": "2026-09-11T13:06:13",
+    "dang_nhap_cuoi": "",
+    "phai_doi_mk": false
+  },
+  "APAG_gv": {
+    "ten_dang_nhap": "APAG_gv",
+    "mo_ta": "Giảng viên hướng dẫn",
+    "vai_tro": "can_bo",
+    "quyen": [
+      "kho_thu_tuc",
+      "cap_nhat_du_lieu",
+      "cau_tra_loi",
+      "tu_vung_giong",
+      "bo_nho_tam"
+    ],
+    "muoi": "b6d50e6902395fab5fcbbbda7ac99d98",
+    "bam": "05fb3850b04b33eca7e2fbd93605ca48f0d5e9f92d685936bc8527d6eb52f9a3",
+    "kich_hoat": true,
+    "tao_luc": "2026-09-11T13:06:13",
+    "dang_nhap_cuoi": "2026-09-11T13:06:13",
+    "phai_doi_mk": false
+  }
+}

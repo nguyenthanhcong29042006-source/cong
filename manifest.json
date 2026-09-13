@@ -1,0 +1,593 @@
+{
+  "version": 2,
+  "thu_tuc": [
+    {
+      "key": "2.000635",
+      "ma_thu_tuc": "2.000635",
+      "ten": "Cấp bản sao Trích lục hộ tịch, bản sao Giấy khai sinh",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã, Tỉnh",
+      "doi_tuong": "Tổ chức (không bao gồm doanh nghiệp, HTX), Công dân Việt Nam",
+      "co_quan_thuc_hien": "Cơ quan quản lý cơ sở dữ liệu hộ tịch điện tử Sở Tư pháp",
+      "pdf": "data/tthc/2.000635/thu_tuc.pdf",
+      "raw_txt": "data/tthc/2.000635/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 15015
+    },
+    {
+      "key": "2.000522",
+      "ma_thu_tuc": "2.000522",
+      "ten": "Thủ tục đăng ký lại khai sinh có yếu tố nước ngoài",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/2.000522/thu_tuc.pdf",
+      "raw_txt": "data/tthc/2.000522/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 17011
+    },
+    {
+      "key": "2.000528",
+      "ma_thu_tuc": "2.000528",
+      "ten": "Thủ tục đăng ký khai sinh có yếu tố nước ngoài",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/2.000528/thu_tuc.pdf",
+      "raw_txt": "data/tthc/2.000528/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 17236
+    },
+    {
+      "key": "2.000547",
+      "ma_thu_tuc": "2.000547",
+      "ten": "Thủ tục ghi vào Sổ hộ tịch việc hộ tịch khác của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài (khai sinh; giám hộ; nhận cha, mẹ, con; xác định cha, mẹ, con; nuôi con nuôi; khai tử; thay đổi hộ tịch)",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/2.000547/thu_tuc.pdf",
+      "raw_txt": "data/tthc/2.000547/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 16894
+    },
+    {
+      "key": "1.004884",
+      "ma_thu_tuc": "1.004884",
+      "ten": "Thủ tục đăng ký lại khai sinh",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/1.004884/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.004884/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 17275
+    },
+    {
+      "key": "1.004772",
+      "ma_thu_tuc": "1.004772",
+      "ten": "Thủ tục đăng ký khai sinh cho người đã có hồ sơ, giấy tờ cá nhân",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/1.004772/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.004772/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 16293
+    },
+    {
+      "key": "1.003583",
+      "ma_thu_tuc": "1.003583",
+      "ten": "Thủ tục đăng ký khai sinh lưu động",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/1.003583/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.003583/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 8483
+    },
+    {
+      "key": "1.001695",
+      "ma_thu_tuc": "1.001695",
+      "ten": "Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con có yếu tố nước ngoài",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam, Người nước ngoài, Người Việt Nam định cư ở",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/1.001695/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.001695/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 15433
+    },
+    {
+      "key": "1.001193",
+      "ma_thu_tuc": "1.001193",
+      "ten": "Thủ tục đăng ký khai sinh",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/1.001193/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.001193/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 18684
+    },
+    {
+      "key": "1.000893",
+      "ma_thu_tuc": "1.000893",
+      "ten": "Thủ tục đăng ký khai sinh có yếu tố nước ngoài cho người đã có hồ sơ, giấy tờ cá nhân",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/1.000893/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.000893/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 15874
+    },
+    {
+      "key": "1.000689",
+      "ma_thu_tuc": "1.000689",
+      "ten": "Thủ tục đăng ký khai sinh kết hợp đăng ký nhận cha, mẹ, con",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/1.000689/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.000689/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 13494
+    },
+    {
+      "key": "1.000110",
+      "ma_thu_tuc": "1.000110",
+      "ten": "Thủ tục đăng ký khai sinh có yếu tố nước ngoài tại khu vực biên giới",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/1.000110/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.000110/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 17222
+    },
+    {
+      "key": "2.000712",
+      "ma_thu_tuc": "2.000712",
+      "ten": "Thủ tục ghi vào sổ hộ tịch việc khai sinh đã đăng ký tại cơ quan có thẩm quyền của nước ngoài",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Cơ quan khác",
+      "doi_tuong": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/2.000712/thu_tuc.pdf",
+      "raw_txt": "data/tthc/2.000712/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 10871
+    },
+    {
+      "key": "1.001020",
+      "ma_thu_tuc": "1.001020",
+      "ten": "Thủ tục đăng ký khai sinh cho trẻ em sinh ra ở nước ngoài và có quốc tịch Việt Nam",
+      "nhom": "KHAI_SINH",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Cơ quan khác",
+      "doi_tuong": "Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/1.001020/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.001020/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai sinh.xlsx",
+      "so_ky_tu": 10118
+    },
+    {
+      "key": "2.000547",
+      "ma_thu_tuc": "2.000547",
+      "ten": "Thủ tục ghi vào Sổ hộ tịch việc hộ tịch khác của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền của nước ngoài (khai sinh; giám hộ; nhận cha, mẹ, con; xác định cha, mẹ, con; nuôi con nuôi; khai tử; thay đổi hộ tịch)",
+      "nhom": "KHAI_TU",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/2.000547/thu_tuc.pdf",
+      "raw_txt": "data/tthc/2.000547/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai tử.xlsx",
+      "so_ky_tu": 16894
+    },
+    {
+      "key": "2.000497",
+      "ma_thu_tuc": "2.000497",
+      "ten": "Thủ tục đăng ký lại khai tử có yếu tố nước ngoài",
+      "nhom": "KHAI_TU",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/2.000497/thu_tuc.pdf",
+      "raw_txt": "data/tthc/2.000497/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai tử.xlsx",
+      "so_ky_tu": 14693
+    },
+    {
+      "key": "1.005461",
+      "ma_thu_tuc": "1.005461",
+      "ten": "Đăng ký lại khai tử",
+      "nhom": "KHAI_TU",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/1.005461/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.005461/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai tử.xlsx",
+      "so_ky_tu": 13623
+    },
+    {
+      "key": "1.004827",
+      "ma_thu_tuc": "1.004827",
+      "ten": "Thủ tục đăng ký khai tử có yếu tố nước ngoài tại khu vực biên giới",
+      "nhom": "KHAI_TU",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Người nước ngoài",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/1.004827/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.004827/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai tử.xlsx",
+      "so_ky_tu": 14356
+    },
+    {
+      "key": "1.001766",
+      "ma_thu_tuc": "1.001766",
+      "ten": "Thủ tục đăng ký khai tử có yếu tố nước ngoài",
+      "nhom": "KHAI_TU",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/1.001766/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.001766/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai tử.xlsx",
+      "so_ky_tu": 14501
+    },
+    {
+      "key": "1.000656",
+      "ma_thu_tuc": "1.000656",
+      "ten": "Thủ tục đăng ký khai tử",
+      "nhom": "KHAI_TU",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/1.000656/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.000656/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai tử.xlsx",
+      "so_ky_tu": 14985
+    },
+    {
+      "key": "1.000419",
+      "ma_thu_tuc": "1.000419",
+      "ten": "Thủ tục đăng ký khai tử lưu động",
+      "nhom": "KHAI_TU",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/1.000419/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.000419/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai tử.xlsx",
+      "so_ky_tu": 7123
+    },
+    {
+      "key": "2.000702",
+      "ma_thu_tuc": "2.000702",
+      "ten": "Thủ tục ghi vào sổ hộ tịch các việc hộ tịch đã đăng ký tại cơ quan có thẩm quyền của nước ngoài (giám hộ; nhận cha, mẹ, con; xác định cha, mẹ con; nuôi con nuôi; khai tử; và những thay đổi khác)",
+      "nhom": "KHAI_TU",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Cơ quan khác",
+      "doi_tuong": "Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/2.000702/thu_tuc.pdf",
+      "raw_txt": "data/tthc/2.000702/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai tử.xlsx",
+      "so_ky_tu": 9430
+    },
+    {
+      "key": "2.000527",
+      "ma_thu_tuc": "2.000527",
+      "ten": "Thủ tục đăng ký khai tử cho công dân Việt Nam ở nước ngoài",
+      "nhom": "KHAI_TU",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Cơ quan khác",
+      "doi_tuong": "Công dân Việt Nam, Người Việt Nam định cư ở nước ngoài",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/2.000527/thu_tuc.pdf",
+      "raw_txt": "data/tthc/2.000527/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "khai tử.xlsx",
+      "so_ky_tu": 9174
+    },
+    {
+      "key": "2.000806",
+      "ma_thu_tuc": "2.000806",
+      "ten": "Thủ tục đăng ký kết hôn có yếu tố nước ngoài",
+      "nhom": "KET_HON",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/2.000806/thu_tuc.pdf",
+      "raw_txt": "data/tthc/2.000806/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "đăng ký kết hôn.xlsx",
+      "so_ky_tu": 18763
+    },
+    {
+      "key": "1.000894",
+      "ma_thu_tuc": "1.000894",
+      "ten": "Thủ tục đăng ký kết hôn",
+      "nhom": "KET_HON",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/1.000894/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.000894/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "đăng ký kết hôn.xlsx",
+      "so_ky_tu": 15160
+    },
+    {
+      "key": "1.000593",
+      "ma_thu_tuc": "1.000593",
+      "ten": "Thủ tục đăng ký kết hôn lưu động",
+      "nhom": "KET_HON",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/1.000593/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.000593/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "đăng ký kết hôn.xlsx",
+      "so_ky_tu": 6963
+    },
+    {
+      "key": "1.000094",
+      "ma_thu_tuc": "1.000094",
+      "ten": "Thủ tục đăng ký kết hôn có yếu tố nước ngoài tại khu vực biên giới",
+      "nhom": "KET_HON",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Xã",
+      "doi_tuong": "Công dân Việt Nam, Người nước ngoài",
+      "co_quan_thuc_hien": "Ủy ban nhân dân cấp xã",
+      "pdf": "data/tthc/1.000094/thu_tuc.pdf",
+      "raw_txt": "data/tthc/1.000094/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "đăng ký kết hôn.xlsx",
+      "so_ky_tu": 14504
+    },
+    {
+      "key": "2.000682",
+      "ma_thu_tuc": "2.000682",
+      "ten": "Thủ tục đăng ký kết hôn giữa công dân Việt Nam tạm trú ở nước ngoài với nhau hoặc giữa công dân Việt Nam cư trú ở nước ngoài với người nước ngoài",
+      "nhom": "KET_HON",
+      "linh_vuc": "Hộ tịch",
+      "cap_thuc_hien": "Cơ quan khác",
+      "doi_tuong": "Người Việt Nam định cư ở nước ngoài, Công dân Việt Nam",
+      "co_quan_thuc_hien": "",
+      "pdf": "data/tthc/2.000682/thu_tuc.pdf",
+      "raw_txt": "data/tthc/2.000682/raw.txt",
+      "sections": [
+        "CÁCH THỨC THỰC HIỆN",
+        "CĂN CỨ PHÁP LÝ",
+        "THÀNH PHẦN HỒ SƠ",
+        "TRÌNH TỰ THỰC HIỆN",
+        "YÊU CẦU, ĐIỀU KIỆN THỰC HIỆN"
+      ],
+      "nguon_excel": "đăng ký kết hôn.xlsx",
+      "so_ky_tu": 12875
+    }
+  ]
+}

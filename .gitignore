@@ -1,0 +1,21 @@
+# ===== BÍ MẬT — TUYỆT ĐỐI KHÔNG ĐẨY LÊN GITHUB =====
+.streamlit/secrets.toml
+data/users.json          # tài khoản sẽ tự tạo lại khi app khởi động
+
+# ===== Sinh lại được, không cần đưa lên =====
+data/cache/audio/        # file mp3, gTTS tạo lại trong 1-2 giây
+data/cache/models.json   # danh sách model, tự dò lại
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pdf.bak
+_backup/
+
+# ===== PHẢI ĐƯA LÊN (ghi rõ để không ai lỡ tay ignore) =====
+# data/manifest.json          danh mục 27 thủ tục
+# data/tthc/                  28 PDF đã bóc + text
+# data/cache/simplified/      câu trả lời đã duyệt  <-- QUAN TRỌNG NHẤT
+# data/glossary_hmong.csv
+# data/kho_ghi_de.json
+# data/audio_bank/            giọng người Mông thu sẵn
